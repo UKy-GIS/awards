@@ -26,7 +26,7 @@ Nominations for awards will open on March 24 and close on April 11. The awards w
 
 Nominations can be made by any member of the Geography Department. Undergraduate students can nominate themselves for the Outstanding Undergraduate Research Paper, Gyula Pauer Cartography Project, and Withington Human/Cultural Geography awards.
 
-Nominations can be sent to the Undergraduate Committee geographyugc@l.uky.edu. Please include relevant documentation for the nominee, e.g., research paper, map portfolio, description of merit, etc.
+Nominations can be sent to the Undergraduate Committee [geographyugc@l.uky.edu](geographyugc@l.uky.edu). Please include relevant documentation for the nominee, e.g., research paper, map portfolio, description of merit, etc.
 
 ### Eligibility
 
