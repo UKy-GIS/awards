@@ -22,7 +22,7 @@
 
 ## Call for nominations
 
-Nominations for awards will open on March 24 and close on April 11. The awards will be presented during the Departments's 51<sup>st</sup> GiB Day on April 25, 2025.
+Nominations for awards will open on March 24 and close on April 11. The awards will be presented during the Department's 51<sup>st</sup> GiB Day on April 25, 2025.
 
 Nominations can be made by any member of the Geography Department. Undergraduate students can nominate themselves for the Outstanding Undergraduate Research Paper, Gyula Pauer Cartography Project, and Withington Human/Cultural Geography awards.
 
