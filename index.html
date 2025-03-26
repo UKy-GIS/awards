@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography Undergraduate Awards season</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: url('./assets/images/background.jpg');
+            font-family: "Figtree", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 100%;
+        }
+
+        a,
+        a:link,
+        a:visited {
+            color: rgb(15, 136, 216);
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: rgb(182, 0, 134);
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px;
+            /* line-height: 1.5em; */
+        }
+
+        header,
+        footer,
+        h1 {
+            font-weight: 200;
+        }
+
+        header img {
+            max-width: 300px;
+        }
+
+        header div {
+            font-size: 2em;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            width: 100%;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        footer {
+            width: 100%;
+            text-align: center;
+            padding: 10px 0 30px 0;
+        }
+
+        .flex-row-wide {
+            display: flex;
+            width: 100%;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            /* gap: 20px; */
+            /* padding: 20px; */
+        }
+
+        .flex-columns {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .big,
+        .subheading {
+            font-weight: 900;
+            padding: 0;
+        }
+
+        .big {
+            line-height: 1.2em;
+        }
+
+        .subheading {
+            font-size: 3em;
+            font-weight: 700;
+        }
+
+        .calltoaction {
+            font-size: 2em;
+            font-weight: 700;
+            margin: 0;
+            padding: 0;
+        }
+
+        .pink {
+            color: rgb(182, 0, 134);
+        }
+
+        .lightpink {
+            color: rgb(235, 79, 194);
+        }
+
+        .gib {
+            background-color: rgba(230, 190, 219, 0.491);
+        }
+
+        .items {
+            border: 1px solid rgb(182, 0, 134);
+            padding: 20px;
+            border-radius: 10px;
+            font-size: 1.25em;
+            text-align: left;
+            width: 100%;
+        }
+
+        .items h3 {
+            font-size: 1.2em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .items .pin {
+            font-weight: 500;
+            margin-top: 10px;
+        }
+
+        @media (max-width: 800px) {
+
+            .flex-row-wide {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .container {
+                padding: 20px;
+            }
+
+            header img {
+                max-width: 200px;
+            }
+
+            header div {
+                font-size: 1.5em;
+            }
+
+            header {
+                margin-bottom: 10px;
+            }
+
+            main {
+                padding: 10px;
+            }
+
+            section {
+                margin-bottom: 10px;
+            }
+
+            .subheading {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header class="flex-row-wide">
+            <img src="./assets/images/logo.png" alt="Geography Department Logo">
+            <div>Geography Awards 2025</div>
+        </header>
+        <main class="flex-columns">
+            <section>
+                <p class="fit calltoaction subheading pink">Geography majors & minors</p>
+                <div class="fit big">AWARDS!</div>
+                <p class="fit calltoaction">Submit your nomination</p>
+                <p class="fit calltoaction">by Friday, April 11, 2025.</p>
+                <p id="timer" class="fit calltoaction lightpink"></p>
+                <p class="fit calltoaction">You can submit your work</p>
+                <p class="fit calltoaction">to this <a
+                        href="https://forms.office.com/Pages/ResponsePage.aspx?id=C1MwK7ZpV0S4GEgctT1Crv0veoo4ka5GnTXh1AYukkxUNUdFRVpDQllTSkY3NlVPRTBYRFAxOTYzTC4u">form</a>
+                    or your instructor.</p>
+            </section>
+            <section class="flex-columns">
+                <div class="duedate subheading">Nominate for these awards</div>
+                <div class="items">
+                    <h3>Outstanding Research Paper</h3>
+                    <p>Research papers prepared for geography courses or presented at regional or national professional
+                        meetings are eligible for consideration. The quality of the research problem and the writing and
+                        presentation of findings are the principal criteria used in making the award. This includes
+                        originality and relevance of the work, and professional potential as indicted by the project.
+                    </p>
+                </div>
+                <div class="items">
+                    <h3>Pauer Cartography Award</h3>
+                    <p>Students who wish to be considered for this award should assemble a portfolio of maps prepared in
+                        conjunction with any geography class, appropriate internship, or independent study courses they
+                        have
+                        taken. The quality of work submitted is the principal criterion used in making the award. This
+                        means
+                        overall quality, indications of technical maturity, and an indication of potential as a
+                        professional.</p>
+                </div>
+
+                <div class="items">
+                    <h3>Withington Geography Award</h3>
+                    <p>This award recognizes outstanding student writing in topics following the traditional
+                        cultural/behavioral theme in geography. This award recognizes outstanding student writing in
+                        topics
+                        following the traditional cultural/behavioral theme in geography. </p>
+                </div>
+            </section>
+            <section class="flex-columns">
+                <div class="duedate subheading">Join us for these events</div>
+                <div class="items">
+                    <h3>April 3, 5 pm: Bike-n-Boing</h3>
+                    <p>A bike ride from Patterson Office Tower to the Burl Arcade for complimentary pinball and arcade
+                        games. The bike ride will visit destinations along the Town Branch Trail. </p>
+                    <p class="pin">📍 Patterson Office Tower.</p>
+                </div>
+                <div class="items">
+                    <h3>April 10, 5 pm: Undergrad v. Grad v. Faculty Geoguessr Tourney</h3>
+                    <p>Are you faster than GPS? Can you look at a Google Street View of somewhere in Kentucky and think,
+                        "I
+                        know exactly where this is." Join your cohort, compete, and win the coveted Golden Pushpin
+                        Trophy.
+                    </p>
+                    <p class="pin">📍 WT Young Library, Room B-28B.</p>
+                </div>
+
+                <div class="items">
+                    <h3>April 17, 5 pm: Undergraduate Pre-Awards Day Celebration</h3>
+                    <p>Our Geography in the Bluegrass Undergraduate Awards Ceremony is April 25th. If you submitted a
+                        project, paper, map, etc. for consideration, you are invited to celebrate your hard work and
+                        accomplishments at this complimentary dinner. Submit your work by April 11th to be considered
+                        for an
+                        award. </p>
+                    <p class="pin">📍 Details TBA.</p>
+                </div>
+                <div class="items gib">
+                    <h3>April 25: Geography in the Bluegrass Day</h3>
+                    <p>The University of Kentucky Department of Geography invites you to our 51st Annual Geography in
+                        the
+                        Bluegrass Day, a celebration of the Geography program, our history, our students and faculty,
+                        our
+                        alumni and friends, and the achievements of all.</p>
+                    <p class="pin">📍 3 PM Address by Prof. Rich Schein: Farish Theater @ The Lexington Public Library
+                    </p>
+                    <p class="pin">📍 5 PM Awards & Recognition Ceremony: The Lyric Theatre and Cultural Arts Center</p>
+                </div>
+                <div class="items">
+                    <h3>May 1, 5 pm: Undergrad v. Grad v. Faculty Pickleball Tourney </h3>
+                    <p>The Spring semester's social calendar concludes with the not-to-be-missed annual Pickleball
+                        Tournament. Will the grads dominate this year, or can the faculty dig deep and pull out an
+                        upset?
+                        The undergrads are perennial favorites, but the competition is always fierce.
+                    </p>
+                    <p class="pin">📍 Details TBA.</p>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2025 UKy <a href="https://geography.as.uky.edu/become-a-geographer">Geography Department</a></p>
+        </footer>
+    </div>
+    <script src="./assets/js/fitty.min.js"></script>
+
+    <script>
+        fitty('.fit', {
+            minSize: 14,
+            maxSize: 600
+        });
+        function updateTimer() {
+            const targetDate = new Date('April 11, 2025 23:59:00');
+            const now = new Date();
+            const timeDifference = targetDate - now;
+
+
+
+            const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+            let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+            let seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+
+            if (seconds < 10) {
+                seconds = `0${seconds}`;
+            }
+
+            if (minutes < 10) {
+                minutes = `0${minutes}`;
+            }
+
+            document.getElementById('timer').innerHTML = `
+            <p>${days} days & ${hours} hours remaining</p>
+        `;
+        }
+
+        const timerInterval = setInterval(updateTimer, 1000);
+        updateTimer();
+    </script>
+
+</body>
+
+</html>
