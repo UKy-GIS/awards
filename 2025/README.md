@@ -78,7 +78,7 @@ Applications can be found through this [link](https://geography.as.uky.edu/under
 ## Schedule of events
 
 * **April 3, 5 pm: Bike-n-Boing**  
-A bike ride from Patterson Office Tower to the Burl Arcade for complimentary pinball and arcade games. The bike ride will visit destinations along the Town Branch Trail.
+A bike ride from Patterson Office Tower to the Burl Arcade for complimentary pinball and arcade games. The bike ride will visit destinations along the Town Branch Trail.   
 📍 Patterson Office Tower.
 * **April 10, 5 pm: Undergrad v. Grad v. Faculty Geoguessr Tourney**    
 Are you faster than GPS? Can you look at a Google Street View of somewhere in Kentucky and think, "I know exactly where this is." Join your cohort, compete, and win the coveted Golden Pushpin Trophy.    
