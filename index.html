@@ -146,6 +146,21 @@
             margin-top: 10px;
         }
 
+        .hidden {
+            display: none;
+        }
+
+        .qr-code {
+            width: 100%;
+            max-width: 400px;
+        }
+
+        hr {
+            width: 100%;
+            border: 0px;
+            margin: 300px 0;
+        }
+
         @media (max-width: 800px) {
 
             .flex-row-wide {
@@ -180,6 +195,8 @@
             .subheading {
                 font-size: 2em;
             }
+
+
         }
     </style>
 </head>
@@ -202,6 +219,10 @@
                         href="https://forms.office.com/Pages/ResponsePage.aspx?id=C1MwK7ZpV0S4GEgctT1Crv0veoo4ka5GnTXh1AYukkxUNUdFRVpDQllTSkY3NlVPRTBYRFAxOTYzTC4u">form</a>
                     or your instructor.</p>
             </section>
+            <section class="flex-columns">
+                <img class="qr-code hidden" src="./assets/images/qr-code-submission-form.png" alt="Submit Form">
+            </section>
+            <hr class="hidden">
             <section class="flex-columns">
                 <div class="duedate subheading">Nominate for these awards</div>
                 <div class="items">
