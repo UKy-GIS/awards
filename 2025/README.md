@@ -17,7 +17,7 @@
     - [🏆 Withington Human/Cultural Geography Award](#-withington-humancultural-geography-award)
   - [Previous award recipients](#previous-award-recipients)
   - [Undergraduate Enrichment Award (UEA)](#undergraduate-enrichment-award-uea)
-  - [🔥Schedule of events](#schedule-of-events]
+  - [🔥Schedule of events](#schedule-of-events)
 
 <!-- /TOC -->
 
