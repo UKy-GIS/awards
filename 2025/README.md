@@ -73,3 +73,22 @@ While not a GiB Day award, the UEA is available year-round to financially suppor
 The Award was established in 2019 in commemoration of the Department’s 75th anniversary.
 
 Applications can be found through this [link](https://geography.as.uky.edu/undergraduate-enrichment-award-uea).
+
+## Schedule of events
+
+* **April 3, 5 pm: Bike-n-Boing**  
+A bike ride from Patterson Office Tower to the Burl Arcade for complimentary pinball and arcade games. The bike ride will visit destinations along the Town Branch Trail.
+📍 Patterson Office Tower.
+* **April 10, 5 pm: Undergrad v. Grad v. Faculty Geoguessr Tourney**    
+Are you faster than GPS? Can you look at a Google Street View of somewhere in Kentucky and think, "I know exactly where this is." Join your cohort, compete, and win the coveted Golden Pushpin Trophy.    
+📍 WT Young Library, Room B-28B.
+* **April 17, 5 pm: Undergraduate Pre-Awards Day Celebration**  
+Our Geography in the Bluegrass Undergraduate Awards Ceremony is April 25th. If you submitted a project, paper, map, etc. for consideration, you are invited to celebrate your hard work and accomplishments at this complimentary dinner. Submit your work by April 11th to be considered for an award.  
+📍 Details TBA.   
+* **April 25: Geography in the Bluegrass Day**  
+The University of Kentucky Department of Geography invites you to our 51st Annual Geography in the Bluegrass Day, a celebration of the Geography program, our history, our students and faculty, our alumni and friends, and the achievements of all.   
+📍 3 PM Address by Prof. Rich Schein: Farish Theater @ The Lexington Public Library   
+📍 5 PM Awards & Recognition Ceremony: The Lyric Theatre and Cultural Arts Center
+* **May 1, 5 pm: Undergrad v. Grad v. Faculty Pickleball Tourney**    
+The Spring semester's social calendar concludes with the not-to-be-missed annual Pickleball Tournament. Will the grads dominate this year, or can the faculty dig deep and pull out an upset? The undergrads are perennial favorites, but the competition is always fierce.   
+📍 Details TBA.
