@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geoguessr smackdown</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: url('./assets/images/background.jpg');
+            font-family: "Figtree", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 100%;
+        }
+
+        a,
+        a:link,
+        a:visited {
+            color: rgb(15, 136, 216);
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: rgb(182, 0, 134);
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px;
+            /* line-height: 1.5em; */
+        }
+
+        header,
+        footer,
+        h1 {
+            font-weight: 200;
+        }
+
+        header img {
+            max-width: 300px;
+        }
+
+        header div {
+            font-size: 2em;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            width: 100%;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        footer {
+            width: 100%;
+            text-align: center;
+            padding: 10px 0 30px 0;
+        }
+
+        .flex-row-wide {
+            display: flex;
+            width: 100%;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            /* gap: 20px; */
+            /* padding: 20px; */
+        }
+
+        .flex-columns {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .big,
+        .subheading {
+            font-weight: 900;
+            padding: 0;
+        }
+
+        .big {
+            line-height: 1.2em;
+        }
+
+        .subheading {
+            font-size: 3em;
+            font-weight: 700;
+        }
+
+        .calltoaction {
+            font-size: 2em;
+            font-weight: 700;
+            margin: 0;
+            padding: 0;
+        }
+
+        .pink {
+            color: rgb(182, 0, 134);
+        }
+
+        .lightpink {
+            color: rgb(235, 79, 194);
+        }
+
+        .gib {
+            background-color: rgba(230, 190, 219, 0.491);
+        }
+
+        .items {
+            border: 1px solid rgb(182, 0, 134);
+            padding: 20px;
+            border-radius: 10px;
+            font-size: 1.25em;
+            text-align: left;
+            width: 100%;
+        }
+
+        .items h3 {
+            font-size: 1.2em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .items .pin {
+            font-weight: 500;
+            margin-top: 10px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .qr-code {
+            width: 100%;
+            max-width: 400px;
+        }
+
+        hr {
+            width: 100%;
+            border: 0px;
+            margin: 300px 0;
+        }
+
+        @media (max-width: 800px) {
+
+            .flex-row-wide {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .container {
+                padding: 20px;
+            }
+
+            header img {
+                max-width: 200px;
+            }
+
+            header div {
+                font-size: 1.5em;
+            }
+
+            header {
+                margin-bottom: 10px;
+            }
+
+            main {
+                padding: 10px;
+            }
+
+            section {
+                margin-bottom: 10px;
+            }
+
+            .subheading {
+                font-size: 2em;
+            }
+
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header class="flex-row-wide">
+            <img src="./assets/images/logo.png" alt="Geography Department Logo">
+            <div>Geography Awards 2025</div>
+        </header>
+        <main class="flex-columns">
+            <section>
+                <p class="fit calltoaction subheading pink">KENTUCKY</p>
+                <div class="fit big">GEOGUESSR</div>
+                <p class="fit calltoaction">smackdown</p>
+                <p class="fit calltoaction">Undergrad v Grad v Faculty</p>
+            </section>
+            <section class="flex-columns">
+                <img class="qr-code hidden" src="./assets/images/qr-code-submission-form.png" alt="Submit Form">
+            </section>
+            <hr class="hidden">
+            <section class="flex-columns">
+                <div class="duedate subheading">RULES</div>
+                <div class="items">
+                    <h3>Four games with one practice game</h3>
+                    <p>Each game has three rounds. Place a marker on the map where you think the location is. The
+                        closest
+                        to the actual location wins.</p>
+                    </p>
+                </div>
+                <div class="items">
+                    <h3>Three teams</h3>
+                    <p>Each team can have as many players as desired. The average of all players will be the average of
+                        the team's score.</p>
+                </div>
+
+                <div class="items">
+                    <h3>Smacktalk is allowed</h3>
+                    <p>But using any other resource to discover the location is not. </p>
+                </div>
+            </section>
+            <section class="flex-columns">
+                <div class="duedate subheading">PRIZES</div>
+                <div class="items">
+                    <h3>Vintage maps</h3>
+                    <p>Custom printed 2001 & 2016 maps of the Daniel Boone NF</p>
+                </div>
+                <div class="items">
+                    <h3>Golden Pushpin Trophy</h3>
+                    <p>The coveted Golden Pushpin Trophy will be awarded to the winning team.</p>
+                    </p>
+                </div>
+            </section>
+            <section>
+                <div class="fit big">AWARDS!</div>
+                <p class="fit calltoaction">Submit your nominations by tomorrow</p>
+                <p id="timer" class="fit calltoaction lightpink"></p>
+                <p class="fit calltoaction">You can submit your work</p>
+                <p class="fit calltoaction">to this <a
+                        href="https://forms.office.com/Pages/ResponsePage.aspx?id=C1MwK7ZpV0S4GEgctT1Crv0veoo4ka5GnTXh1AYukkxUNUdFRVpDQllTSkY3NlVPRTBYRFAxOTYzTC4u">form</a>
+                    or your instructor.</p>
+            </section>
+        </main>
+        <footer>
+            <p>More information about our <a href="2025">Awards</a> | &copy; 2025 UKy <a
+                    href="https://geography.as.uky.edu/become-a-geographer">Geography Department</a></p>
+        </footer>
+    </div>
+    <script src="./assets/js/fitty.min.js"></script>
+
+    <script>
+        fitty('.fit', {
+            minSize: 14,
+            maxSize: 600
+        });
+        function updateTimer() {
+            const targetDate = new Date('April 11, 2025 23:59:00');
+            const now = new Date();
+            const timeDifference = targetDate - now;
+
+
+
+            const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+            let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+            let seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+
+            if (seconds < 10) {
+                seconds = `0${seconds}`;
+            }
+
+            if (minutes < 10) {
+                minutes = `0${minutes}`;
+            }
+
+            document.getElementById('timer').innerHTML = `
+            <p>${days} days & ${hours} hours remaining</p>
+        `;
+        }
+
+        const timerInterval = setInterval(updateTimer, 1000);
+        updateTimer();
+    </script>
+
+</body>
+
+</html>
