@@ -92,9 +92,9 @@ This award recognizes the sophomore or junior Geography major for exceptional de
 
 ## Faculty and Graduate Student GiB awards
 
-These awards are determined by the undergraduate majors. In previous years, the majors met in a group called the UK Geographical Society (or Society of Geographers?) and voted on these awards. Award presentations at the GiB event are made by the Chair, who is not eligible for these awards.
+These awards are determined by the undergraduate majors. In previous years, the majors met in a group called the UK Geographical Society (or Society of Geographers?) and voted on these awards.
 
-**Recommendation:** in lieu of a student group, the UGC should provision an online form for student voting. Microsoft Office Forms, which can filter students by their linkblue IDs, is an obvious choice. Results of this vote are sent to the Department Chair.
+**Recommendation:** in lieu of a student group, the UGC should provision an online form for student voting. Microsoft Office Forms, which can filter students by their linkblue IDs, is an obvious choice. Results of this vote are sent to the Department Chair. Award presentations at the GiB event are made by the Chair, who is not eligible for these awards.
 
 ### 🏆 Outstanding Faculty Instructor
 
