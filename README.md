@@ -1,6 +1,6 @@
 # Undergraduate Committee awards and grants handbook
 
-UPDATED March 10, 2025
+UPDATED April 26, 2025
 
 ## Table of Contents
 
@@ -17,8 +17,9 @@ UPDATED March 10, 2025
     - [🏆 Gyula Pauer Cartography Project Award](#-gyula-pauer-cartography-project-award)
     - [🏆 Withington Human/Cultural Geography Award](#-withington-humancultural-geography-award)
     - [🏆 Thomas M. Geoghegan Award](#-thomas-m-geoghegan-award)
-  - [TA & instructor GiB awards](#ta--instructor-gib-awards)
-    - [🏆 Outstanding Geography Teacher Award](#-outstanding-geography-teacher-award)
+  - [Faculty and Graduate Student GiB awards](#faculty-and-graduate-student-gib-awards)
+    - [🏆 Outstanding Faculty Instructor](#-outstanding-faculty-instructor)
+    - [🏆 Outstanding Graduate Student Instructor](#-outstanding-graduate-student-instructor)
   - [Undergraduate Enrichment Fund](#undergraduate-enrichment-fund)
     - [Eligibility](#eligibility)
     - [Scholarship](#scholarship)
@@ -46,13 +47,13 @@ The main goals of these opportunities are to support our undergraduates and to p
 - During the GiB event, quality photographs should be taken of the award winners. These photographs should be archived.
 - After the GiB event, the UGC Chair should send a congratulatory email to the winners. The email should include a link to the archived photographs and a recommendation that the winners add the award to their CVs with a provided citation.
 
-Recommendation: Create a release form the winners can sign to allow the department to use their photographs and content in promotional materials.
+**Recommendation:** Create a release form the winners can sign to allow the department to use their photographs and content in promotional materials.
 
 Previous [recipients](https://geography.as.uky.edu/geography-department-award-recipients) of the awards and grants.
 
 ## Undergraduate GiB awards
 
-> March 5, 2025: The Department of Geography voted to include the minor in Mapping and GIS, Urban Studies, and Geography in the eligibility for the awards. The Department also lowered the credit hours required for eligibility to 30 hours in undergraduate studies.
+> March 5, 2025: The Department of Geography voted to include the minor in Mapping and GIS, Urban Studies, and Geography in the eligibility for certain awards. The Department also lowered the credit hours required for eligibility for certain awards to 30 hours in undergraduate studies.
 
 The UGC is responsible for six awards presented at the annual GiB event. The Schwendeman award is based on GPA. The remaining five awards are based on nominations and are juried by the UGC. Award presentations at the GiB event are made by the UGC Chair and DUS.
 
@@ -69,7 +70,7 @@ This award is determined by a student's GPA. Student must be a declared geograph
 
 ### 🏆 Raitz Scholarship
 
-This award is presented to the junior or senior Geography major to support academic merit and diversity among undergraduate students in the department. This recognition includes a cash award.
+This award is presented to any Geography major with at least two semesters remaining to support academic merit and diversity among undergraduate students in the department. This recognition includes a two semester tuition scholarship.
 
 ### 🏆 Outstanding Undergraduate Research Paper Award
 
@@ -83,21 +84,25 @@ Student must be a declared geography major (or minor in Mapping & GIS, Urban Stu
 
 This award recognizes outstanding student writing in topics following the traditional cultural/behavioral theme in geography. This award, which may be awarded at each of the Bachelors, Masters, and Doctoral levels, recognizes outstanding student writing in topics following the traditional cultural/behavioral theme in geography. For Bachelor awards, the student must be a declared geography major (or minor in Mapping & GIS, Urban Studies, or Geography) with at least 30 hours of undergraduate course work. This recognition includes a cash award.
 
-Recommendation: Clarify if three awards can be given (UG, MA, PhD) in one year. Also, clarify if the UGC is responsible for the MA and PhD awards.
+**Recommendation:** Clarify if three awards can be given (UG, MA, PhD) in one year. The Graduate Committee is responsible for judging the MA and PhD awards.
 
 ### 🏆 Thomas M. Geoghegan Award
 
-This award recognizes the sophomore or junior Geography major for exceptional dedication and spirit to undergraduate studies in geography.
+This award recognizes the sophomore or junior Geography major for exceptional dedication and spirit to undergraduate studies in geography. Thomas Geoghegan was a student in our department, and his family established an award in his memory.
 
-## TA & instructor GiB awards
+## Faculty and Graduate Student GiB awards
 
-These awards are determined by the undergraduate majors. In previous years, the majors met in a group called the UK Geographical Society (or Society of Geographers?) and voted on these awards. Award presentations at the GiB event are made by the Chair.
+These awards are determined by the undergraduate majors. In previous years, the majors met in a group called the UK Geographical Society (or Society of Geographers?) and voted on these awards. Award presentations at the GiB event are made by the Chair, who is not eligible for these awards.
 
-Recommendation: in lieu of a student group, the UGC should provision an online form for student voting. Results of this vote are sent to the Department Chair.
+**Recommendation:** in lieu of a student group, the UGC should provision an online form for student voting. Microsoft Office Forms, which can filter students by their linkblue IDs, is an obvious choice. Results of this vote are sent to the Department Chair.
 
-### 🏆 Outstanding Geography Teacher Award
+### 🏆 Outstanding Faculty Instructor
 
-These awards are presented to the geography faculty (and any full-time or part-time instructor) and teaching assistant who has shown outstanding teaching ability.
+Award presented to the geography faculty who has shown outstanding teaching ability.
+
+### 🏆 Outstanding Graduate Student Instructor
+
+Award presented to the graduate student who has shown outstanding teaching ability.
 
 ## Undergraduate Enrichment Fund
 
